@@ -1,0 +1,11 @@
+{
+  "name": "myptoapp",
+  "version": "1.0.0",
+  "description": "AI-driven personal growth platform",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "author": "",
+  "license": "ISC"
+}
